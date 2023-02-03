@@ -1,0 +1,13 @@
+[0] | bobe1231's Place Number: 0 | UID:4343999910 | https://roblox.com/games/12340004705
+[1] | Dev Place | UID:4344018158 | https://roblox.com/games/12340070029
+[2] | bobe1231's Place Number: 2 | UID:4344242046 | https://roblox.com/games/12340860563
+[3] | Asset Place | UID:4344243377 | https://roblox.com/games/12340865137
+[4] | bobe1231's Place Number: 4 | UID:4344246581 | https://roblox.com/games/12340876998
+[5] | Staging Place | UID:4344247480 | https://roblox.com/games/12340880035
+[6] | bobe1231's Place Number: 6 | UID:4344248716 | https://roblox.com/games/12340884683
+[7] | Production Map Place | UID:4344249872 | https://roblox.com/games/12340888970
+[8] | Dev - Luis | UID:4344267834 | https://roblox.com/games/12340952594
+[9] | Show Tycoon Dev | UID:4346923634 | https://roblox.com/games/12349604003
+[10] | Show Tycoon Staging | UID:4346924791 | https://roblox.com/games/12349608590
+[11] | Show Tycoon Production | UID:4346925480 | https://roblox.com/games/12349611222
+[12] | Show Tycoon Asset Review | UID:4346928249 | https://roblox.com/games/12349621100
